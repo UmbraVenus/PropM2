@@ -11,7 +11,3 @@ headless = true\n\
 enableCORS=false\n\
 port = $PORT\n\
 " > ~/.streamlit/config.toml
-
-echo "\
-password=propm0000\n\
-" > ~/.streamlit/secrets.toml
