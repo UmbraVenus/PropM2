@@ -70,13 +70,13 @@ with st.form("Confirm"):
                 state,
                 zipcode,
                 phone,
-                url,
                 t,
                 deposit,
                 appfee,
                 washer,
                 pets,
-                parking,]
+                parking,
+                url]
             df.to_csv('listings.csv',index=False)
         except pd.errors.EmptyDataError:
             df = pd.DataFrame({
@@ -89,12 +89,12 @@ with st.form("Confirm"):
                 "state":state,
                 "zipcode":zipcode,
                 "phone":phone,
-                "url":url,
                 "type":t,
                 "deposit":deposit,
                 "app":appfee,
                 "washer":washer,
                 "pets":pets,
                 "parking":parking,
+                "url":url,
             }, index=[0])
             df.to_csv("listings.csv", index=False)

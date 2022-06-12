@@ -1,4 +1,2 @@
-price,bed,bath,date,street,city,state,zipcode,phone,url,type,deposit,app,washer,pets,parking
-1695,1,1,2022-06-21,408 NW 12th Avenue Unit 307,Portland,Oregon,97209,8887802938,https://www.propmhomes.com/portland-homes-for-rent/1040411/408-nw-12th-avenue-unit-307-portland-or-97209,Condo,1695,65,Yes,No Pets,Off street
-1695,1,1,2022-07-05,1535 SW Clay Street # 132,Portland,Oregon,97201,5037419958,https://www.propmhomes.com/portland-homes-for-rent/1292923/1535-sw-clay-street-#-132-portland-or-97201,Condo,1695,65,Yes,Allow all pets,Off street
-1495,2,1,2022-05-10,5920 S Hood Avenue Unit 4,Portland,Oregon,97239,5037419958,https://www.propmhomes.com/portland-homes-for-rent/1139666/5920-s-hood-avenue-unit-4-portland-or-97239,Apartment,1495,65,Yes,No Pets,Off street
+price,bed,bath,date,street,city,state,zipcode,phone,type,deposit,app,washer,pets,parking,url
+1695,1,1,2022-06-21,408 NW 12th Avenue Unit 307,Portland,Oregon,97209,888.780.2938,Condo,1695,65,Yes,No Pets,Off street,https://www.propmhomes.com/portland-homes-for-rent/1040411/408-nw-12th-avenue-unit-307-portland-or-97209
